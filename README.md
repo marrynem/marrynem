@@ -34,13 +34,8 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
 
  **Projects apart from pinned:**
   <be>
-- [HeadachePredictor-HMM](https://github.com/marrynem/HeadachePredictor-HMM) - HMMs comparison as predictors for headaches using a dataset of binary sequences.
-- [TextMiningSvevo](https://github.com/marrynem/TextMiningSvevo) - LDA, topic modeling, sentiment analysis on Svevo's corpus
-- [EthicalAI-STACKAnalysis](https://github.com/marrynem/EthicalAI-STACKAnalysis) - K-Means and Correspondence Analysis on Stack platform
-- [data_visualization_project](https://github.com/marrynem/data_visualization_project) - Data Visualization techniques for a case study
-- [Covid19-Hospitalization-Insights_Lombardia_2020-2](https://github.com/marrynem/Covid19-Hospitalization-Insights_Lombardia_2020-21) - Case study application of GLM and GAM models
-- [2021Assignement02](https://github.com/marrynem/2021Assignement02) - Parallel implementation of kd-tree construction using MPI & OpenMP in C
-- [c-_rbt_project](https://github.com/marrynem/c-_rbt_project) - Implementation of Red-Black Tree class in C++
+- [CustomerChurnPredictor](https://github.com/marrynem/Customer-churn-prediction) - customer churn analysis for a fake telecom company.
+
 
 
 <br>
